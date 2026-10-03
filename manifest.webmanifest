@@ -1,0 +1,8 @@
+{
+  "name": "Collage Machine",
+  "short_name": "Collage",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090b0d",
+  "theme_color": "#090b0d"
+}
